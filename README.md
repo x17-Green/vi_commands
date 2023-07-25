@@ -1,4 +1,4 @@
-# **[Basic `vi` commands](vi/README.md)**
+# **[Basic `vi` commands](vi/vi.md)**
 ## > By [X17-Green](https://twitter.com/marksman_323)
 
 This repo consists of basic vi commands for your daily use
