@@ -1,9 +1,9 @@
-**basic vi commands**
+# **Basic `vi` commands**
+## > By [X17-Green](https://twitter.com/marksman_323)
 
-this repo consists of basic vi commands for daily use
+This repo consists of basic vi commands for your daily use
 
-feel free to recommend more basic commands as they come to you.
+Feel free to recommend more as they come to you.
 
-thank you
-
-connect with me at **x17-Green** on Discord
+Connect with me at **x17-Green** on Discord
+Thank you
