@@ -7,6 +7,6 @@ Feel free to recommend more as they come to you.
 
 # Connect with me 
 > ## **x17-Green** on Discord
-> ## [X17-Green](https://twitter.com/marksman_323) - Twitter/X
+> ## [Marshall Green](https://twitter.com/marksman_323) - Twitter/X
 
 Thank you
