@@ -5,5 +5,8 @@ This repo consists of basic vi commands for your daily use
 
 Feel free to recommend more as they come to you.
 
-Connect with me at **x17-Green** on Discord
+# Connect with me 
+> ## **x17-Green** on Discord
+> ## [X17-Green](https://twitter.com/marksman_323) - Twitter/X
+
 Thank you
