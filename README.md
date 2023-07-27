@@ -10,9 +10,11 @@
 This repo contains some commonly used and important `vi` commands alongside their descriptions.
 
 1. :keyboard: [Command Mode](vi/command-mode/README.md)
+
 | esc | Command Mode | Commands which cause an action to be taken on a file |
 
 1. :writing_hand: [Insert Mode](vi/insert-mode/README.md)
+
 | i | Insert mode | This mode enables entered text to be inserted into a file |
 
 
