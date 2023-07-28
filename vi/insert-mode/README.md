@@ -4,7 +4,7 @@
 In this mode, every character typed is added to the text in the file.
 
 ## Go into insert mode from command mode
-The following commands allow you to insert and add text and automatically puts `vi` into insert mode, the `esc` key must be pressed to terminate after each entry, to return to [Command mode](/vi/command-mode/README.md)
+The following commands allow you to insert texts and automatically puts `vi` into insert mode, the `esc` key must be pressed to terminate after each entry, to return to [Command mode](/vi/command-mode/README.md)
 
 1. :arrow_heading_down: [New line bellow:](/vi/insert-mode/new_line-bellow)
     This command creates and insert a new line below current line.
@@ -22,7 +22,7 @@ The following commands allow you to insert and add text and automatically puts `
     Insert the text at the end of the line.
 
 1. :one: [Replace one (1) character:](/vi/insert-mode/replace_character)
-    Replace a character, starting at the current position of the cusor
+    Replace a single character, starting at the current position of the cusor (no <Esc> needed).
 
 1. :wastebasket: [Change one (1) word:](/vi/insert-mode/change_word)
     Changing the current word with a new text, starting from the current cusor position.
