@@ -9,20 +9,18 @@
 ## **Basic `vi` commands**
 This repo contains some commonly used and important `vi` commands alongside their descriptions.
 
-**_The UNIX `vi` editor is a full screen editor and has two modes of operation:_** 
+**The UNIX `vi` editor is a full screen editor and has two _modes of operation_:** 
 1. :keyboard: [Command Mode](vi/command-mode/README.md)
 > Commands which cause an action to be taken on a file 
-
 1. :writing_hand: [Insert Mode](vi/insert-mode/README.md)
 > A mode in which entered text is inserted into a file
+
+### Click :point_down: here
+## **[Get started](vi/vi.md)**
 
 ## Connect with me 
 > ### :dependabot: Discord - **x17-Green** 
 > ### :bird: [Marksman Green](https://twitter.com/marksman_323) - Twitter/X
 > ### :cloud: By [X17-Green](https://github.com/x17-Green)
-
-
-### Click :point_down: here
-## **[Get started](vi/vi.md)**
 
 ### **Thank you**
