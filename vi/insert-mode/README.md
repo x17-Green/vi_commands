@@ -6,12 +6,10 @@ In this mode, every character typed is added to the text in the file.
 The following commands allow you to insert and add text and automatically puts `vi` into insert mode, the `esc` key must be pressed to terminate after each entry, to return to [Command mode](/vi/command-mode/README.md)
 
 1. :arrow_heading_down: [New line bellow](/vi/insert-mode/new_line-bellow)
-
-This command creates and insert a new line below current line.
+    This command creates and insert a new line below current line.
 
 1. :arrow_heading_up: [New line above](/vi/insert-mode/new_line-above)
-
-This command creates and insert a new line above current line.
+    This command creates and insert a new line above current line.
 
 1. :arrow_right: [Insert cusor after a character](/vi/insert-mode/insert_after-character)
 
