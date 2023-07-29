@@ -32,3 +32,8 @@ Tkey commands listed bellow will help you navigate `vi` effectly in **[Command M
     - 
 1. **:rewind: [Move from word to left](/vi/command-mode/move_word-left)**
     - 
+
+## Thank you
+Feel free to recommed more new commands as they come to new, you can reach me on [Discord.](https://discord.com/users/982980024950997073)
+
+These are just the basics, but there is more to this commands and can be found [here](https://www.cs.colostate.edu/helpdocs/vi.html)
