@@ -25,13 +25,13 @@ Tkey commands listed bellow will help you navigate `vi` effectly in **[Command M
 1. **:arrow_down: [Move line down](/vi/command-mode/move_line-down)**
     - Move the cursor down to the next line from the current position.
 1. **:arrow_left: [Move character left](/vi/command-mode/move_char-left)**
-    - 
+    - This command moves the cusor to the left one character backwards.
 1. **:arrow_right: [Move character right](/vi/command-mode/move_char-right)**
-    - 
+    - This command moves the cusor to the right one character forward.
 1. **:fast_forward: [Move from word to right](/vi/command-mode/move_word-right)**
-    - 
+    - This command moves cursor to beginning of next word to the right
 1. **:rewind: [Move from word to left](/vi/command-mode/move_word-left)**
-    - 
+    - This command moves the cursor back to beginning of preceding word on the left
 
 ## Thank you
 Feel free to recommed more new commands as they come to new, you can reach me on [Discord.](https://discord.com/users/982980024950997073)
