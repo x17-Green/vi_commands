@@ -21,13 +21,13 @@ Tkey commands listed bellow will help you navigate `vi` effectly in **[Command M
 > `vi` was designed with just the QWERTY Keyboard (with no arrow keys) in mind, so using the arrow keys (:arrow_up_down:, :left_right_arrow:) to navigate `vi` might sometimes act strangely, they should be avoided at all cost.
 
 1. **:arrow_up: [Move line up](/vi/command-mode/move_line-up)**
-    - Move the cursor up to the next from the current position.
+    - Move the cursor up to the next line from the current position.
+1. **:arrow_right: [Move character right](/vi/command-mode/move_char-right)**
+    - This command moves the cusor to the right one character forward from current cursor position.
 1. **:arrow_down: [Move line down](/vi/command-mode/move_line-down)**
-    - Move the cursor down to the next line from the current position.
+    - This command moves the cursor down to the next line from the current position.
 1. **:arrow_left: [Move character left](/vi/command-mode/move_char-left)**
     - This command moves the cusor to the left one character backwards.
-1. **:arrow_right: [Move character right](/vi/command-mode/move_char-right)**
-    - This command moves the cusor to the right one character forward.
 1. **:fast_forward: [Move from word to right](/vi/command-mode/move_word-right)**
     - This command moves cursor to beginning of next word to the right
 1. **:rewind: [Move from word to left](/vi/command-mode/move_word-left)**
