@@ -15,7 +15,7 @@ These are some basic movement keys that can help navigate through files and text
 > - Take them as your modern D-PAD
 
 1. **:arrow_up: [Move one line up](move_line-up)**
-- Move the cursor above the current line to the next one from the current cursor position.
+ - Move the cursor above the current line to the next one from the current cursor position.
 
 1. **:arrow_right: [Move character to the right](move_char-right)**
     - This command moves the cusor forward after a(one) character to the right from current position.
