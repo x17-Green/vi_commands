@@ -5,7 +5,7 @@ The following commands cause an action to be taken on a file.
 
 Characters typed acts as a command to the file being edited when in command mode.
 
-## Navigating the `vi` CLI (Command Line Interfare)
+## Navigating the `vi` CLI
 > `vi` was designed with the QWERTY Keyboard (with no arrow keys) in mind, so using the arrow keys (:arrow_up_down:, :left_right_arrow:) to navigate `vi` might sometimes act strangely, they should be avoided at all cost.
 
 The key commands listed bellow will help you navigate `vi` effectly in **[Command Mode.](README.md)**
@@ -34,16 +34,17 @@ These are some basic movement keys that can help navigate through files and text
 1. **:rewind: [Move from one word to the left](move_word-left)**
     - To move the cursor back to the beginning of the previous word on the left, use this command.
 
-1. **:previous_track_button: [Start of line](line_start)** (0)
+1. **:previous_track_button: [Start of line](line_start)**
     - Use this command to take the cursor to the start of a line from the current cursor position.
 
 1. **:next_track_button: [End of the line](line_end)**
     - Move the cursor from the current position to the end of the current line with this command.
 
 ### Manipulating texts in `vi`
-> Unlike some PC editors, you cannot replace or delete text by highlighting it with the mouse. Instead use the `vi` commands in the following list.
+> **Here's an overview of various ways we can manipulate our texts inside `vi`**
 
-***Here's an overview of various ways we can manipulate our texts inside `vi`***
+Unlike some PC editors, you cannot replace or delete text by highlighting it with the mouse. Instead use the `vi` commands in the following list.
+
 
 1. **:scissors: [Copy or cut content into buffer](copy_line)**
     - This command will help you copy a full line of texts into the buffer before pasting.
@@ -56,7 +57,7 @@ These are some basic movement keys that can help navigate through files and text
 
 1. **:bookmark_tabs: [Copy word](copy_word)**
     - Copying a word in `vi` is easier with this command.
-    > You can copy number of words by adding the number with the command (Ncc)
+    > You can copy number of words by adding the number with the command (Nyw)
 
 1. **:no_entry: [Delete word](delete_word)**
     - How to delete the single word beginning with the character under the cursor has been made easier by using the following commad.
@@ -66,15 +67,16 @@ These are some basic movement keys that can help navigate through files and text
     - Use this command to delete just a character in `vi`.
     
 1. **:leftwards_arrow_with_hook: [Undo/Redo Toggle](undo-redo)**
-    - This works more like a toggle. Use this command Undo and Redo your most recent action. 
+    - This works more like a toggle. Use this command to Undo and Redo your most recent action. 
     > You cannot go back more than one step.
 
-:** Click on the links to view each commands.
-** :point_down::point_down:
-:** If there are any errors while executing these commands please let me know so that I can correct them.
+**Click on the links to view each commands.**
+
+**:point_down::point_down:**
+
+**If there are any errors while executing these commands please let me know so that I can correct them.**
 
 ## Thank you
-```bash
 Feel free to recommed more new commands as they come to you, feel free to reach me on [Discord.](https://discord.com/users/982980024950997073)
 
 These are just the basics, but there is more to this commands and can be found [here](https://www.cs.colostate.edu/helpdocs/vi.html)

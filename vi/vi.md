@@ -1,4 +1,4 @@
-# ** :star2::star2::star2::star2::star2:
+# **:star2::star2::star2::star2::star2:**
 vi editor commands for beginners!
 
 # most basic commands to note on vi
