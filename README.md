@@ -16,11 +16,11 @@ This repo contains some commonly used and important `vi` commands alongside thei
     - A mode in which entered text is inserted into a file
 
 ### Click :point_down: here
-## **[Get started](vi/vi.md)**
+## **[Learn more](vi/vi.md)**
 
-## Connect with me 
+## Let's get Connected 
 > ### :dependabot: [Discord.](https://discord.com/users/982980024950997073) - **x17-Green** 
-> ### :bird: [Marksman Green](https://twitter.com/marksman_323) - Twitter/X
-> ### :cloud: By [X17-Green](https://github.com/x17-Green)
+> ### :bird: [Twitter/X](https://twitter.com/marksman_323) - @marskman_323
+> ### :cloud: By [GitHub](https://github.com/x17-Green)
 
 ### **Thank you**
