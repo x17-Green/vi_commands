@@ -18,7 +18,11 @@ Characters typed acts as a command to the file being edited when in command mode
 
 ## Moving the cursor
 > `vi` was designed with the QWERTY Keyboard (with no arrow keys) in mind, so using the arrow keys (:arrow_up_down:, :left_right_arrow:) to navigate `vi` might sometimes act strangely, they should be avoided at all cost.
+
 The key commands listed bellow will help you navigate `vi` effectly in **[Command Mode.](/vi/command-mode/README.md)**
+
+These are some basic movement keys that can help navigate through files and text within the `vi` editor
+
 > - Take them as your modern D-PAD
 
 1. **:arrow_up: [Move line up](/vi/command-mode/move_line-up)**
