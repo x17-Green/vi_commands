@@ -15,6 +15,6 @@ This repo contains some commonly used and important `vi` commands alongside thei
 ## Let's get Connected 
 > ### :dependabot: [Discord.](https://discord.com/users/982980024950997073) - **x17-Green** 
 > ### :bird: [Twitter/X](https://twitter.com/marksman_323) - @marskman_323
-> ### :cloud: By [GitHub](https://github.com/x17-Green)
+> ### :cloud: X17-Green - [GitHub](https://github.com/x17-Green)
 
 ### **Thank you**
