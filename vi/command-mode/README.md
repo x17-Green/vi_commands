@@ -17,7 +17,7 @@ Characters typed acts as a command to the file being edited when in command mode
 1. undo/redo toggle (u)
 
 ### Moving the cursor
-Tkey commands listed bellow will help you navigate `vi` effectly in **[Command Mode.](vi/command-mode/README.md)**
+Tkey commands listed bellow will help you navigate `vi` effectly in **[Command Mode.](/vi/command-mode/README.md)**
 > `vi` was designed with just the QWERTY Keyboard (with no arrow keys) in mind, so using the arrow keys (:arrow_up_down:, :left_right_arrow:) to navigate `vi` might sometimes act strangely, they should be avoided at all cost.
 
 1. **:arrow_up: [Move line up](/vi/command-mode/move_line-up)**
