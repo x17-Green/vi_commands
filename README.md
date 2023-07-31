@@ -9,7 +9,7 @@
 ## **Basic `vi` commands**
 This repo contains some commonly used and important `vi` commands alongside their descriptions.
 
-### Click :point_down: here
+### Start :point_down: here
 ## **[Learn more](vi/vi.md)**
 
 ## Let's get Connected 
