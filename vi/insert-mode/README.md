@@ -27,7 +27,13 @@ The following commands allow you to insert texts and automatically puts `vi` int
 1. **:wastebasket: [Change one (1) word:](/vi/insert-mode/change_word)**
     - Changing the current word with a new text, starting from the current cusor position.
 
+**Click on the links to view each commands.**
+
+**:point_down::point_down:**
+
+**If there are any errors while executing these commands please let me know so that I can correct them.**
+
 ## Thank you
-Feel free to recommed more new commands as they come to new, you can reach me on [Discord.](https://discord.com/users/982980024950997073)
+Feel free to recommed more new commands as they come to new, you can always reach me on [Discord.](https://discord.com/users/982980024950997073)
 
 These are just the basics, but there is more to this commands and can be found [here](https://www.cs.colostate.edu/helpdocs/vi.html)

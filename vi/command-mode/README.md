@@ -77,6 +77,6 @@ Unlike some PC editors, you cannot replace or delete text by highlighting it wit
 **If there are any errors while executing these commands please let me know so that I can correct them.**
 
 ## Thank you
-Feel free to recommed more new commands as they come to you, feel free to reach me on [Discord.](https://discord.com/users/982980024950997073)
+Feel free to recommed more new commands as they come to you, you can always reach me on [Discord.](https://discord.com/users/982980024950997073)
 
 These are just the basics, but there is more to this commands and can be found [here](https://www.cs.colostate.edu/helpdocs/vi.html)

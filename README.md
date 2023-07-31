@@ -12,9 +12,9 @@ This repo contains some commonly used and important `vi` commands alongside thei
 ### Start :point_down: here
 ## **[Learn more](vi/vi.md)**
 
-## Let's get Connected 
-> ### :dependabot: [Discord.](https://discord.com/users/982980024950997073) - **x17-Green** 
-> ### :bird: [Twitter/X](https://twitter.com/marksman_323) - @marskman_323
-> ### :cloud: X17-Green - [GitHub](https://github.com/x17-Green)
+## Connect with me :point_down::point_down::point_down: 
+> ### - :dependabot: [Discord.](https://discord.com/users/982980024950997073) - **x17-Green** 
+> ### - :bird: [X](https://twitter.com/marksman_323) - @marskman_323
+> ### - :cloud: X17-Green - [GitHub](https://github.com/x17-Green)
 
 ### **Thank you**
