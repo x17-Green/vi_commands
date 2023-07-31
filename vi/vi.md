@@ -6,3 +6,6 @@
     - Commands which cause an action to be taken on a file 
 1. :writing_hand: [Insert Mode](insert-mode/README.md)
     - A mode in which entered text is inserted into a file or overwrites existing content.
+
+
+- **NOTE:** _Both UNIX and vi are case-sensitive. Be sure not to use a capital letter in place of a lowercase letter; the results will not be what you expect._
