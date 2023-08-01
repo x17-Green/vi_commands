@@ -10,8 +10,8 @@ This repo contains some commonly used and important `vi` commands alongside thei
 ### A brief history of `vi`
 > The original code for vi was written by Bill Joy in 1976, as the visual mode for a line editor called ex that Joy had written with Chuck Haley. Bill Joy's ex 1.1 was released as part of the first Berkeley Software Distribution (BSD) Unix release in March 1978.
 
-### Start here:point_down: 
-## **[Learn more](vi/vi.md)**
+### Click here:point_down: to
+## **[Get started](vi/vi.md)**
 
 ## Connect with me 
 > ### - :dependabot: [Discord:](https://discord.com/users/982980024950997073) **x17-Green** 
