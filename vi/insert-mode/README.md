@@ -37,3 +37,5 @@ The following commands allow you to insert texts and automatically puts `vi` int
 Feel free to recommed more new commands as they come to new, you can always reach me on [Discord.](https://discord.com/users/982980024950997073)
 
 These are just the basics, but there is more to this commands and can be found [here](https://www.cs.colostate.edu/helpdocs/vi.html)
+
+[Go back](../vi.md)

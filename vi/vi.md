@@ -11,7 +11,7 @@ Here are the two most common _modes of operation_
 
 1. **:keyboard: [Command Mode](command-mode/README.md)**
     - Commands which cause an action to be taken on a file 
-    
+
 1. **:writing_hand: [Insert Mode](insert-mode/README.md)**
     - Entered text is inserted into a file or overwrites existing content.
 
@@ -26,3 +26,5 @@ Usually you can easily leave vi by saving or quiting on the currently modified f
 - **:floppy_disk: [Saving/Reading Files](/vi/saving/README.md)**
 
     - **NOTE:** _Both UNIX and vi are case-sensitive. Be sure not to use a capital letter in place of a lowercase letter; the results will not be what you expect._
+
+[Go back](../README.md)
