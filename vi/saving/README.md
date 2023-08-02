@@ -1,4 +1,4 @@
-# Saving files and exiting `vi`
+# :floppy_disk:Saving files and exiting `vi`
 When you are using vi, you can save your changes to a file, discard changes, save a file to another existing file, and lots of other file operation commands.
 > This commands work only when you're in the command mode.
 
