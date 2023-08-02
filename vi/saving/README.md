@@ -24,3 +24,5 @@ When you are using vi, you can save your changes to a file, discard changes, sav
     - This command helps you to write contents of a file to replace an already existing file on disk.
 
 **Note:** _The cursor moves to bottom of screen whenever a colon (:) is typed. This type of command is completed by hitting the <Return> (or <Enter>) key._ 
+
+[Back](/..)
