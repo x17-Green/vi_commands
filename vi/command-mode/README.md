@@ -81,4 +81,4 @@ Feel free to recommed more new commands as they come to you, you can always reac
 
 These are just the basics, but there is more to this commands and can be found [here](https://www.cs.colostate.edu/helpdocs/vi.html)
 
-[Go back](../vi.md)
+[Go back](../README.md)
